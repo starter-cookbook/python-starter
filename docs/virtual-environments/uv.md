@@ -1,5 +1,5 @@
 ---
-title: Using UV
+title: UV
 parent: Virtual Environments
 nav_order: 1
 ---

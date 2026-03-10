@@ -1,5 +1,5 @@
 ---
-title: Install Python
+title: Installing Python
 nav_order: 2
 ---
 

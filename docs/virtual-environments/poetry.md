@@ -1,5 +1,5 @@
 ---
-title: Using Poetry
+title: Poetry
 parent: Virtual Environments
 nav_order: 2
 ---

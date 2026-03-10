@@ -1,5 +1,5 @@
 ---
-title: Using Pip + venv
+title: Pip + venv
 parent: Virtual Environments
 nav_order: 3
 ---
