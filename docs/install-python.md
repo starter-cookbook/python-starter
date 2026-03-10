@@ -1,6 +1,5 @@
 ---
 title: Install Python
-parent: Setup
 nav_order: 2
 ---
 
